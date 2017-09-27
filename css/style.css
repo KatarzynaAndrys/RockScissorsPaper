@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+SC');
+
+body {
+	background-color: #000000;
+	font-family: 'Alegreya SC', serif;
+	color: #FFF;
+}
+.container {
+	padding: 50px;
+}
+
+#finish-info {
+	display: none;
+	color: #C90C0C;
+}
+
+.new-game {
+	font-size: 30px;
+	color: #8F0D52;
+}
+
+.names {
+	font-size: 30px;
+}
+
+.scores {
+	font-size: 30px;
+}
